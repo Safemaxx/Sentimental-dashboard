@@ -1,4 +1,4 @@
-Sentiment Analysis Dashboard
+**SENTIMENTAL ANALYSIS DASHBOARD**
 
 A user-friendly web app for analyzing the sentiment of text data using natural language processing (NLP) and visual insights — built with **Streamlit**, **TextBlob**, **Matplotlib**, and **FPDF**.
 
